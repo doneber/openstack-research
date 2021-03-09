@@ -1,8 +1,4 @@
-[13:53] Santiago Eid Dibos
-    
-
 ## Openstack
-
 
 ### Keywords
 
