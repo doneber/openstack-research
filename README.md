@@ -7,6 +7,19 @@ Openstack es un plataforma para el control y administración de recursos como:
 
 a tra vez de un data center.
 
+Openstack es lanzada en julio de 2019 por **Rackspace** y la **NASA** como un proyecto de código abierto.
+
+Contribuidores:
+ - CANONICAL
+ - IBM
+ - Redhat
+ - Huawei
+ - Rackspace
+
+
+
+## Como funciona?
+
 ![openstack from ubuntu page](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_850,h_250/https://assets.ubuntu.com/v1/2d2a0b2a-what+is+open+stack+diagram.svg)
 
 OpenStack en realidad utiliza los recursos virtuales para ejecutar una combinación de herramientas.
